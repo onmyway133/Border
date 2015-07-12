@@ -39,6 +39,8 @@ __attribute__((constructor)) static void FTGBorderConstructor(void) {
 - (void)ftg_didMoveToSuperview {
     self.layer.borderWidth = 1;
     self.layer.borderColor = [UIColor brownColor].CGColor;
+
+    [self ftg_didMoveToSuperview];
 }
 
 @end
