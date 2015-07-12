@@ -4,10 +4,12 @@ Make border for all views
 
 Usage
 --
+- Only take effect in DEBUG build
+- Cocoapods
 ```
-pod `Border`
+pod 'Border'
 ```
-
+- Screenshot
 ![Border](https://raw.github.com/onmyway133/Border/master/Screenshots/screenshot1.png)
 
 
