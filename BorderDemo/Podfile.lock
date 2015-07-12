@@ -1,0 +1,14 @@
+PODS:
+  - Border (1.0)
+
+DEPENDENCIES:
+  - Border (from `../Border.podspec`)
+
+EXTERNAL SOURCES:
+  Border:
+    :path: ../Border.podspec
+
+SPEC CHECKSUMS:
+  Border: a72c0d4110860679072e421781bcaa4294efa355
+
+COCOAPODS: 0.37.2
