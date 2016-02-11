@@ -5,7 +5,7 @@ Make border for all views
 Usage
 --
 - Only take effect in DEBUG build
-- Cocoapods
+- CocoaPods
 ```
 pod 'Border'
 ```
