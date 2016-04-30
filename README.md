@@ -13,6 +13,7 @@ Make border for all views
 
 - Just import the framework
 - [Show layout bounds in iOS](http://www.fantageek.com/blog/2015/11/04/show-layout-bounds-in-ios/)
+- The original Objective C implementation uses `__attribute__((constructor))`, this Swift version uses `initialize` on `UIView extension`
 
 ![](Screenshots/border.png)
 
