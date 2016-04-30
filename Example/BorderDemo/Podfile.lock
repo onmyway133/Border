@@ -1,5 +1,5 @@
 PODS:
-  - Border (0.1.0)
+  - Border (1.0.0)
 
 DEPENDENCIES:
   - Border (from `../../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  Border: 8c7b704e63ec228acc775490d2a7c782cfea801c
+  Border: d46c874aae561d7017de9d86239dde911f080c39
 
 PODFILE CHECKSUM: 31da2f1212aef5833a6604940745a00f72c5c0c2
 
