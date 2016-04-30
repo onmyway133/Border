@@ -1,0 +1,14 @@
+PODS:
+  - Border (0.1.0)
+
+DEPENDENCIES:
+  - Border (from `../../`)
+
+EXTERNAL SOURCES:
+  Border:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  Border: 565dc7b7529f57e6189a518581753ed915416243
+
+COCOAPODS: 0.39.0
