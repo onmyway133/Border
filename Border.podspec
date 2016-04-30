@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Border"
-  s.summary          = "A short description of Border."
+  s.summary          = "Make border for all views"
   s.version          = "0.1.0"
   s.homepage         = "https://github.com/onmyway133/Border"
   s.license          = 'MIT'
@@ -20,8 +20,6 @@ Pod::Spec.new do |s|
   s.tvos.source_files = 'Sources/{iOS,Shared}/**/*'
   s.osx.source_files = 'Sources/{Mac,Shared}/**/*'
 
-  # s.ios.frameworks = 'UIKit', 'Foundation'
-  # s.osx.frameworks = 'Cocoa', 'Foundation'
-
-  # s.dependency 'Whisper', '~> 1.0'
+  s.ios.frameworks = 'UIKit', 'Foundation'
+  s.osx.frameworks = 'Cocoa', 'Foundation'
 end

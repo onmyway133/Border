@@ -1,4 +1,5 @@
 # Border
+Make border for all views
 
 [![CI Status](http://img.shields.io/travis/onmyway133/Border.svg?style=flat)](https://travis-ci.org/onmyway133/Border)
 [![Version](https://img.shields.io/cocoapods/v/Border.svg?style=flat)](http://cocoadocs.org/docsets/Border)
@@ -6,15 +7,13 @@
 [![License](https://img.shields.io/cocoapods/l/Border.svg?style=flat)](http://cocoadocs.org/docsets/Border)
 [![Platform](https://img.shields.io/cocoapods/p/Border.svg?style=flat)](http://cocoadocs.org/docsets/Border)
 
-## Description
-
-**Border** description.
+![](Screenshots/Banner.png)
 
 ## Usage
 
-```swift
-<API>
-```
+Just import the framework
+
+![](Screenshots/border.png)
 
 ## Installation
 
