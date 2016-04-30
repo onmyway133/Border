@@ -11,7 +11,8 @@ Make border for all views
 
 ## Usage
 
-Just import the framework
+- Just import the framework
+- [Show layout bounds in iOS](http://www.fantageek.com/blog/2015/11/04/show-layout-bounds-in-ios/)
 
 ![](Screenshots/border.png)
 
